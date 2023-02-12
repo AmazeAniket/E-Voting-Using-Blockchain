@@ -1,4 +1,4 @@
-# E-Voting Using Blockchain
+# Decentralized Voting (dVoting)
 
 A decentralized voting system based on blockchain technology.
 
@@ -11,8 +11,6 @@ A brief explanation on the basic workflow of the application.
 - The admin then will check if the registration information (blockchain account address, name, and phone number) is valid and matches with his record. If yes, then the admin approves the registered user making them eligible to take part and cast their respective vote in the election.
 - The registered user (voter) following the approval from the admin casts their vote to the candidate of interest (from the voting page).
 - After some time, depending on the scale of the election the admin ends the election. As that happens the voting is closed and the results are displayed announcing the winner at the top of the results page.
-
----
 
 ## To-Do List
 
